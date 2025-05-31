@@ -150,4 +150,5 @@ Feedstock Maintainers
 =====================
 
 * [@claudiushaag](https://github.com/claudiushaag/)
+* [@kraanzu](https://github.com/kraanzu/)
 
