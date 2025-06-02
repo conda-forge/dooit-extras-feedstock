@@ -22,7 +22,7 @@ requirements:
     - poetry-core
   run:
     - python >=${{ python_min }}
-    - dooit >=3.0.4,<4.0
+    - dooit >=3.2.2
 
 tests:
   - python:
@@ -32,7 +32,7 @@ tests:
       python_version: ${{ python_min }}.*
 
 about:
-  homepage: https://github.com/dooit-org/dooit-extras
+  repository: https://github.com/dooit-org/dooit-extras
   summary: 'A collection of utilities to customize your'
   description: |
     Dooit extras is a library consisting of pre-built stuff for Dooit
@@ -40,7 +40,7 @@ about:
     pre-configured configs to get you started!
   license: MIT
   license_file: LICENSE
-  documentation: https://dooit-org.github.io/dooit-extras/
+  homepage: https://dooit-org.github.io/dooit-extras/
 
 extra:
   recipe-maintainers:
